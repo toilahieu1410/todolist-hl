@@ -1,0 +1,66 @@
+.ant-modal-header{
+    background-color:#2a91d6 !important ;
+}
+.ant-modal-title{
+    color: #fff !important;
+}
+.ant-modal-close-x{
+    display: list-item !important;
+    color:#fff !important;
+}
+.ant-list-item-no-flex:hover{
+    cursor: pointer;
+    color:#1890ff;
+}
+.ant-input-affix-wrapper.ant-input-affix-wrapper-textarea-with-clear-btn .ant-input::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: #333;
+    font-size: 16px;
+    opacity: 1; /* Firefox */
+  }
+  .ck.ck-content.ck-editor__editable.ck-rounded-corners.ck-editor__editable_inline.ck-blurred {
+    min-height: 100px;
+}
+.paddingtop100{
+    padding-top:100px ;
+}
+.ck-rounded-corners .ck.ck-editor__main>.ck-editor__editable, .ck.ck-editor__main>.ck-editor__editable.ck-rounded-corners {
+    min-height: 100px !important;
+    border-radius: var(--ck-border-radius);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.form-selector span.ant-form-item-children{
+    display: flex;
+}
+.form-selector span.ant-form-item-children i {
+    line-height: 30px;
+    margin-right: 10px;
+}
+i.anticon.anticon-schedule{
+    margin-right:10px;
+}
+.admin-page .admin-header .anticon {
+    line-height: 64px;
+    display: unset;
+    padding: 0 24px;
+}
+.dropdown-sub ul li {
+    padding-left: 0;
+}
+.menu-dropdown-sub1{
+    border:1px solid #e8e8e8;
+}
+.menu-dropdown-sub1 .ant-menu-sub.ant-menu-inline li{
+    padding: 0 !important;
+  
+}
+.menu-dropdown-sub1 li .ant-menu-submenu-title{
+    padding: 0 !important;
+    text-indent: 10px;
+    margin: 0;
+    height: 30px !important;
+    line-height: 30px !important;
+}
+.dropdown-sub i.ant-menu-submenu-arrow{
+    margin-right:0 !important;
+}

@@ -1,0 +1,44 @@
+.form input[type='text'], .form input[type='email'], .form input[type='password'], .form input[type='date'], .form select, .form textarea{
+    font-size: 14px;
+}
+.paddingtop100{
+    padding-top:100px ;
+    padding-bottom: 10px;
+  }
+  .page-login{
+    width: 100%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* padding: 15px; */
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    background-repeat: no-repeat;
+      background-position: center center;
+  }
+  .page-register{
+    width: 100%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    /* padding: 15px; */
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    background-repeat: no-repeat;
+      background-position: center center;
+  }
+  
